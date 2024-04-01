@@ -22,7 +22,7 @@ This is a simple Twitter bot built with Node.js that replies to tweets based on 
 Edit the replyText variable in bot.js to customize the reply message.
 Run the bot using node bot.js.
 
-##Configuration
+## Configuration
 q: The search query to find tweets to reply to.
 count: The number of tweets to retrieve.
 result_type: The type of results to return (e.g., popular, recent).
