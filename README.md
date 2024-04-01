@@ -27,5 +27,6 @@ q: The search query to find tweets to reply to.
 count: The number of tweets to retrieve.
 result_type: The type of results to return (e.g., popular, recent).
 lang: The language of the tweets to retrieve.
-##Usage
+
+## Usage
 This bot searches for tweets based on the specified parameters and replies to them with a custom message. Make sure to respect Twitter's guidelines and avoid spamming.
